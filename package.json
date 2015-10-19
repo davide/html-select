@@ -9,7 +9,7 @@
   "dependencies": {
     "inherits": "^2.0.1",
     "through2": "^1.0.0",
-    "cssauron": "^1.1.0",
+    "cssauron": "davide/cssauron",
     "readable-stream": "^1.0.27-1",
     "duplexer2": "~0.0.2",
     "minimist": "~0.0.8",
